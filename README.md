@@ -1,2 +1,2 @@
 # number-guessing
-This is a simple number guessing game. The program generates a random number from 0 to 1000, then the request from input from a user to guess the number. upon guessing the user is informed if the value is larger or smaller. The repository also contains a program that plays the game and tries to solve the game.
+This is a simulation of a number guessing game. The program generates a number for 1 to 1000. The program allows input and specifies if the inpu is larger or smaller than the intended number. The repository contains a program simulating the process. The program uses a binary searching algorithm to try and solve the game.
